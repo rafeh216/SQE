@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SearchAlgorithms.Tests/SearchAlgorithms.Tests.csproj" />
+  <Project Path="SearchAlgorithms/SearchAlgorithms.csproj" />
+</Solution>
