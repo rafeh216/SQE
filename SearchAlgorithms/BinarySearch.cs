@@ -4,6 +4,7 @@ namespace SearchAlgorithms
 {
     public class BinarySearch
     {
+        //binary search algorithm assumes that the array is sorted in ascending order
         public int Search(int key, int[] elemArray)
         {
             int bottom = 0;
